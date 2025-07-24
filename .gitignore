@@ -1,0 +1,11 @@
+# general files
+Thumbs.db
+.DS_Store
+.env
+.venv
+env/
+venv/
+
+# Memory Bank and Roo files
+.roo/
+memory-bank/
